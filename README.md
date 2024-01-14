@@ -1,16 +1,7 @@
 # movies_app
+Developed a mobile application using Flutter that utilizes TMDB API to showcase top-rated, trending, and upcoming movies. The app allows users to view movie details such as overview, rating, and release date. Additionally, users can access comprehensive information about each movie.
 
-A new Flutter project.
+![Home](https://github.com/gayathri3377/Movies-App/assets/152592583/e9737f61-729d-4951-ad6a-bb544ca84554)
+![home2](https://github.com/gayathri3377/Movies-App/assets/152592583/0ee4015c-95b0-448a-a07b-205573edb604)
+![overview](https://github.com/gayathri3377/Movies-App/assets/152592583/1d69cb78-b42a-451e-ba84-7eb310ece3e5)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
