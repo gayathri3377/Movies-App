@@ -24,8 +24,8 @@ The app connects to the TMDB API to fetch up-to-date movie data. Here is a brief
    - **Now Playing Movies:** The app accesses the [GET now playing](https://developers.themoviedb.org/3/movies/get-now-playing) endpoint to get a list of movies currently playing in theaters.
 
 3. **HTTP Requests:**
-   The API key is included in the HTTP requests to the various endpoints, ensuring that the app receives the latest movie data. Tools like [Postman](http://postman.com) can be used to test and validate these requests.
-
+   The API key is included in the HTTP requests to the various endpoints, ensuring that the app receives the latest movie data.
+   
 ## Screens and Functionality
 
 ### Home Screen
