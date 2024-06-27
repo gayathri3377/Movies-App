@@ -4,8 +4,12 @@
 
 The Movies App is a comprehensive application designed for film enthusiasts. It provides users with detailed lists of movies categorized into Trending Movies, Top Rated Movies, and Now Playing Movies. Each movie entry includes a poster, name, and a detailed description page with additional information. The app aims to offer a seamless and engaging experience for users to explore and discover movies.
 
-![Home](https://github.com/gayathri3377/Movies-App/assets/152592583/e9737f61-729d-4951-ad6a-bb544ca84554) ![overview](https://github.com/gayathri3377/Movies-App/assets/152592583/1d69cb78-b42a-451e-ba84-7eb310ece3e5)
-![home2](https://github.com/gayathri3377/Movies-App/assets/152592583/0ee4015c-95b0-448a-a07b-205573edb604)
+<div style="text-align: center;">
+  <img src="https://github.com/gayathri3377/Movies-App/assets/152592583/e9737f61-729d-4951-ad6a-bb544ca84554" alt="Home" width="200"/>
+  <img src="https://github.com/gayathri3377/Movies-App/assets/152592583/0ee4015c-95b0-448a-a07b-205573edb604" alt="Home2" width="200"/>
+  <img src="https://github.com/gayathri3377/Movies-App/assets/152592583/1d69cb78-b42a-451e-ba84-7eb310ece3e5" alt="Overview" width="200"/>
+  
+</div>
 
 ## API Connection
 
